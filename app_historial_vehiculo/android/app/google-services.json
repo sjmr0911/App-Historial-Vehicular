@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812237587762",
+    "project_id": "app-historial-vehiculo",
+    "storage_bucket": "app-historial-vehiculo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812237587762:android:7d985a87b6186ecb95832b",
+        "android_client_info": {
+          "package_name": "com.example.app_historial_vehiculo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJueDwsH3oY5OZqIREj0nlW0nI6qaiB4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
